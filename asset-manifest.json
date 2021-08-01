@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/roboti/static/css/main.bc9fca35.chunk.css",
-    "main.js": "/roboti/static/js/main.e290e79c.chunk.js",
-    "main.js.map": "/roboti/static/js/main.e290e79c.chunk.js.map",
+    "main.js": "/roboti/static/js/main.0dbbbb86.chunk.js",
+    "main.js.map": "/roboti/static/js/main.0dbbbb86.chunk.js.map",
     "runtime-main.js": "/roboti/static/js/runtime-main.352cef82.js",
     "runtime-main.js.map": "/roboti/static/js/runtime-main.352cef82.js.map",
     "static/css/2.6d7c7915.chunk.css": "/roboti/static/css/2.6d7c7915.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.6d7c7915.chunk.css",
     "static/js/2.dd723cf3.chunk.js",
     "static/css/main.bc9fca35.chunk.css",
-    "static/js/main.e290e79c.chunk.js"
+    "static/js/main.0dbbbb86.chunk.js"
   ]
 }
